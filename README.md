@@ -42,4 +42,4 @@ Este repositorio contiene el código fuente para un sistema de pizzería que ges
  
 ## Código Abierto
 
-Este sistema de pizzería es un proyecto de código abierto, lo que significa que el código fuente está disponible para que la comunidad lo explore, modifique y mejore. Apreciamos y fomentamos las contribuciones de la comunidad.
+Este sistema de pizzería es un proyecto de código abierto, lo que significa que el código fuente está disponible para que la comunidad lo explore, modifique y mejore. 
